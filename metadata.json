@@ -1,0 +1,6 @@
+{
+  "name": "دار السلام",
+  "description": "منظومة دار السلام لإدارة الجمعيات الخيرية، سجل المستفيدين والعائلات، جدول المتبرعين السنوي، والصندوق المالي المركزي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
